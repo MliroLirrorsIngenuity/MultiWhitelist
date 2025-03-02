@@ -1,10 +1,10 @@
 from mcdreforged.api.all import *
 
-from multiwhitelist.constants import PREFIX
-from multiwhitelist.utils.config_utils import config
-from multiwhitelist.utils.logger_utils import log, log_available_apis
-from multiwhitelist.utils.translater_utils import tr
-from multiwhitelist.operations import add_whitelist, remove_whitelist, list_whitelist
+from meowtiwhitelist.constants import PREFIX
+from meowtiwhitelist.utils.config_utils import config
+from meowtiwhitelist.utils.logger_utils import log, log_available_apis
+from meowtiwhitelist.utils.translater_utils import tr
+from meowtiwhitelist.operations import add_whitelist, remove_whitelist, list_whitelist
 
 
 def register_command(server: PluginServerInterface):

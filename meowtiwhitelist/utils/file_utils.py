@@ -3,7 +3,7 @@ import time
 import json
 import os
 
-from multiwhitelist.constants import EXAMPLE_DIR, EXAMPLE_FILES
+from meowtiwhitelist.constants import EXAMPLE_DIR, EXAMPLE_FILES
 
 
 def check_dir(dir_path):

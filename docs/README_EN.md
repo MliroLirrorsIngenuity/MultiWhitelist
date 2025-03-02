@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">MultiWhitelist</h1>
+  <h1 align="center">MeowtiWhitelist</h1>
   <p align="center">
     A multiple verification service whitelist management plugin based on <a href="https://mcdreforged.com/"><strong>MCDReforged</strong></a>.
     <br />
     <br />
-    <a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/README.md">简体中文</a>
+    <a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/README.md">简体中文</a>
     |
-    <a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/blob/main/docs/README_EN.md">English (You Are Here.)</a>
+    <a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/blob/main/docs/README_EN.md">English (You Are Here.)</a>
   </p>
 </div>
 
@@ -33,12 +33,12 @@
 
 ### Installation
 
-1. Download the latest version of MultiWhitelist from [GitHub Releases](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/releases).
+1. Download the latest version of MeowtiWhitelist from [GitHub Releases](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/releases).
 2. Place the plugin into MCDR’s `plugins` folder.
 3. [Start the server with MCDReforged](https://docs.mcdreforged.com/zh-cn/latest/quick_start/first_run.html#run).
 
 ### Configuration & Commands
-See [Wiki](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/wiki).
+See [Wiki](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/wiki).
 
 ## Before Asking Questions
 
@@ -48,12 +48,12 @@ See [Wiki](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/wiki).
 Please confirm:
 
 - You have tried all possible solutions.
-- You have searched for answers (like checking [Issues](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/issues)).
+- You have searched for answers (like checking [Issues](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/issues)).
 - You have provided enough info to help developers find the issue (logs, config files, plugin lists, and version details).
 
 ## Contributors
-<a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MliroLirrorsIngenuity/MultiWhitelist" alt="contrib.rocks image" />
+<a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MliroLirrorsIngenuity/MeowtiWhitelist" alt="contrib.rocks image" />
 </a>
 
 ## Acknowledgements

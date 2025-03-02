@@ -1,7 +1,7 @@
 from mcdreforged.api.all import *
 
-from multiwhitelist.utils.translater_utils import tr
-from multiwhitelist.utils.uuid_utils.service_loader import api_services
+from meowtiwhitelist.utils.translater_utils import tr
+from meowtiwhitelist.utils.uuid_utils.service_loader import api_services
 
 
 def log(source: CommandSource,text):

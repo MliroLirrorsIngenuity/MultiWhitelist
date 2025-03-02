@@ -1,7 +1,7 @@
-multiwhitelist:
+meowtiwhitelist:
   help_msg_name: 'Yggdrasil 白名单管理插件'
   help_msg: |
-    ==============MultiWhitelist==============
+    ==============MeowtiWhitelist==============
     §7{0} add §e[name] §b(API num/name)§r    添加白名单
     §7{0} remove §e[name]§r    移除白名单
     §7{0} list§r    显示完整白名单

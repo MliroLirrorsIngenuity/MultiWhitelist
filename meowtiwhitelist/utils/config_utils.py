@@ -2,7 +2,7 @@ import os
 
 from mcdreforged.api.all import *
 
-from multiwhitelist.constants import CONFIG_FILE, CONFIG_DIR
+from meowtiwhitelist.constants import CONFIG_FILE, CONFIG_DIR
 
 
 class Configuration(Serializable):

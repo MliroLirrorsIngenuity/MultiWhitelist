@@ -2,8 +2,8 @@ import requests
 import re
 from typing import Optional, Dict
 
-from multiwhitelist.utils.logger_utils import *
-from multiwhitelist.utils.uuid_utils.service_loader import api_services
+from meowtiwhitelist.utils.logger_utils import *
+from meowtiwhitelist.utils.uuid_utils.service_loader import api_services
 
 _UUID_PATTERN = re.compile(
     r"([a-fA-F0-9]{8})"

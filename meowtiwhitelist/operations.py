@@ -1,11 +1,11 @@
 import time
 
-from multiwhitelist.utils.config_utils import server_dirname
-from multiwhitelist.utils.logger_utils import log, log_available_apis
-from multiwhitelist.utils.uuid_utils.service_loader import build_service_mapping
-from multiwhitelist.utils.uuid_utils.uuid_utils import fetchers
-from multiwhitelist.utils.translater_utils import tr
-from multiwhitelist.utils.file_utils import (
+from meowtiwhitelist.utils.config_utils import server_dirname
+from meowtiwhitelist.utils.logger_utils import log, log_available_apis
+from meowtiwhitelist.utils.uuid_utils.service_loader import build_service_mapping
+from meowtiwhitelist.utils.uuid_utils.uuid_utils import fetchers
+from meowtiwhitelist.utils.translater_utils import tr
+from meowtiwhitelist.utils.file_utils import (
     get_backup_dir,
     get_backup_whitelist_path,
     get_whitelist_path,

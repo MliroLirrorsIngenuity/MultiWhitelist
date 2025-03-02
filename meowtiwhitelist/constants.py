@@ -3,7 +3,7 @@ import os
 
 PREFIX = "!!whitelist"
 
-CONFIG_DIR = os.path.join("config", "MultiWhitelist")
+CONFIG_DIR = os.path.join("config", "MeowtiWhitelist")
 CONFIG_FILE = os.path.join(CONFIG_DIR, "config.json")
 SERVICE_DIR = os.path.join(CONFIG_DIR, "service")
 

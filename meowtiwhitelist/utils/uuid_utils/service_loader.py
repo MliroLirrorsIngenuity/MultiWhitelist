@@ -1,6 +1,6 @@
 import os
 import yaml
-from multiwhitelist.constants import SERVICE_DIR
+from meowtiwhitelist.constants import SERVICE_DIR
 
 def load_all_services():
     if not os.path.exists(SERVICE_DIR):

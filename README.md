@@ -1,12 +1,12 @@
 <div align="center">
-  <h1 align="center">MultiWhitelist</h1>
+  <h1 align="center">MeowtiWhitelist</h1>
   <p align="center">
     一款基于 <a href="https://mcdreforged.com/"><strong>MCDReforged</strong></a> 开发的多验证服务白名单管理插件。
     <br />
     <br />
-    <a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/README.md">简体中文</a>
+    <a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/README.md">简体中文</a>
     |
-    <a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/blob/main/docs/README_EN.md">English</a>
+    <a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/blob/main/docs/README_EN.md">English</a>
   </p>
 </div>
 
@@ -35,12 +35,12 @@
 
 ~~把大象装进冰箱需要几步~~
 
-1. 从 [GitHub Releases](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/releases)中下载最新版本的 MultiWhitelist
+1. 从 [GitHub Releases](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/releases)中下载最新版本的 MeowtiWhitelist
 2. 将下载的插件放入MCDR的`plugins`目录中
 3. [通过MCDReforged启动服务器](https://docs.mcdreforged.com/zh-cn/latest/quick_start/first_run.html#run)
 
 ### 配置&指令
-详见 [Wiki](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/wiki)
+详见 [Wiki](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/wiki)
 
 ## 提问前必看
 
@@ -51,7 +51,7 @@
 
 - 已经尝试了所有可能的解决方案
 
-- 已经尝试搜索了解决方案（包括但不限于本仓库的[Issues](https://github.com/MliroLirrorsIngenuity/MultiWhitelist/issues)）
+- 已经尝试搜索了解决方案（包括但不限于本仓库的[Issues](https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/issues)）
 
 - 你提供了**足够的信息**帮助开发人员定位问题，包括但不限于下列：
 
@@ -64,8 +64,8 @@
   - MCDR 版本号、Minecraft 服务端版本号和插件版本号
 
 ## 贡献者
-<a href="https://github.com/MliroLirrorsIngenuity/MultiWhitelist/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=MliroLirrorsIngenuity/MultiWhitelist" alt="contrib.rocks image" />
+<a href="https://github.com/MliroLirrorsIngenuity/MeowtiWhitelist/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MliroLirrorsIngenuity/MeowtiWhitelist" alt="contrib.rocks image" />
 </a>
 
 ## 致谢
